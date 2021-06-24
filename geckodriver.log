@@ -1,0 +1,959 @@
+1618982680059	geckodriver	INFO	Listening on 127.0.0.1:48657
+1618982681050	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileciCATP"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618982696466	Marionette	INFO	Listening on port 35587
+1618982696719	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1618983194066	geckodriver	INFO	Listening on 127.0.0.1:33929
+1618983195056	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJKCTxk"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618983208649	Marionette	INFO	Listening on port 44305
+1618983208822	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618983329539	geckodriver	INFO	Listening on 127.0.0.1:59415
+1618983330525	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeLTeEb"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618983342337	Marionette	INFO	Listening on port 36183
+1618983342523	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618983957173	geckodriver	INFO	Listening on 127.0.0.1:54617
+1618983958160	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCkRVrB"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618983969226	Marionette	INFO	Listening on port 39423
+1618983969423	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618984006184	geckodriver	INFO	Listening on 127.0.0.1:58851
+1618984007182	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileM2Fpar"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618984018042	Marionette	INFO	Listening on port 41023
+1618984018149	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618984027716	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1618984068305	geckodriver	INFO	Listening on 127.0.0.1:52077
+1618984069292	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefvIEsV"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618984080830	Marionette	INFO	Listening on port 38159
+1618984081018	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618984115974	geckodriver	INFO	Listening on 127.0.0.1:49395
+1618984116967	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyTJ7bb"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618984128020	Marionette	INFO	Listening on port 43385
+1618984128334	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618984166082	geckodriver	INFO	Listening on 127.0.0.1:44105
+1618984167069	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledvcO4k"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618984178113	Marionette	INFO	Listening on port 42155
+1618984178260	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618984188160	Marionette	INFO	Stopped listening on port 42155
+1618984258024	geckodriver	INFO	Listening on 127.0.0.1:43317
+1618984258030	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileos0ecV"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618984269424	Marionette	INFO	Listening on port 40499
+1618984269656	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618984336587	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 453: TypeError: this.contentWindow is null
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0148,name=PContent::Msg_CommitBrowsingContextTransaction) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1618984501228	Marionette	INFO	Stopped listening on port 40499
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618984610051	geckodriver	INFO	Listening on 127.0.0.1:35885
+1618984611040	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9HONtf"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618984622340	Marionette	INFO	Listening on port 45933
+1618984622539	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://eaa5f5f6-aa5e-4a99-8f5d-4fbb27fad92d/lib/filter/antibanner.js, line 1158: unreachable code after return statement
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xBA000F,name=PWindowGlobal::Msg_RawMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xBA000F,name=PWindowGlobal::Msg_RawMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xBA000F,name=PWindowGlobal::Msg_RawMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xBA000F,name=PWindowGlobal::Msg_RawMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xBA000F,name=PWindowGlobal::Msg_RawMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xBA000F,name=PWindowGlobal::Msg_RawMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xBA000F,name=PWindowGlobal::Msg_RawMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xBA000F,name=PWindowGlobal::Msg_RawMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xBA000F,name=PWindowGlobal::Msg_RawMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0149,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230001,name=PBrowser::Msg_AsyncMessage) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 1902: TypeError: data is null
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 1902: TypeError: data is null
+1618984641394	Marionette	INFO	Stopped listening on port 45933
+1618984688833	geckodriver	INFO	Listening on 127.0.0.1:54031
+1618984689836	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileshWtzR"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618984701123	Marionette	INFO	Listening on port 39545
+1618984701873	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://cf228149-39f6-42da-8f13-7e96046b10a6/lib/filter/antibanner.js, line 1158: unreachable code after return statement
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xBA000F,name=PWindowGlobal::Msg_RawMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xBA000F,name=PWindowGlobal::Msg_RawMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xBA000F,name=PWindowGlobal::Msg_RawMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xBA000F,name=PWindowGlobal::Msg_RawMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xBA000F,name=PWindowGlobal::Msg_RawMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xBA000F,name=PWindowGlobal::Msg_RawMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xBA000F,name=PWindowGlobal::Msg_RawMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xBA000F,name=PWindowGlobal::Msg_RawMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0149,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230001,name=PBrowser::Msg_AsyncMessage) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 1902: TypeError: data is null
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 1902: TypeError: data is null
+1618984726546	Marionette	INFO	Stopped listening on port 39545
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618984891352	geckodriver	INFO	Listening on 127.0.0.1:33699
+1618984892359	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZU2MOe"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618984906027	Marionette	INFO	Listening on port 41377
+1618984906249	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://3c6d120b-aff6-4664-a958-0d62c39b6a1a/lib/filter/antibanner.js, line 1158: unreachable code after return statement
+JavaScript error: moz-extension://3c6d120b-aff6-4664-a958-0d62c39b6a1a/lib/ui-service.js, line 231: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://3c6d120b-aff6-4664-a958-0d62c39b6a1a/lib/ui-service.js, line 231: Error: Could not establish connection. Receiving end does not exist.
+1618985042611	geckodriver	INFO	Listening on 127.0.0.1:56643
+1618985043598	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYHskPf"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618985057940	Marionette	INFO	Listening on port 44867
+1618985058223	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://276d11e7-ec11-4e93-a68b-714e8c167994/lib/filter/antibanner.js, line 1158: unreachable code after return statement
+JavaScript error: moz-extension://276d11e7-ec11-4e93-a68b-714e8c167994/lib/ui-service.js, line 231: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://276d11e7-ec11-4e93-a68b-714e8c167994/lib/ui-service.js, line 231: Error: Could not establish connection. Receiving end does not exist.
+1618985289740	geckodriver	INFO	Listening on 127.0.0.1:47047
+1618985290732	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileirTUWR"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618985304751	Marionette	INFO	Listening on port 39589
+1618985304936	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618985314119	geckodriver	INFO	Listening on 127.0.0.1:45973
+1618985315125	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBZs1bg"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618985327416	Marionette	INFO	Listening on port 38653
+1618985327642	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://64062179-7c1b-4fac-8c10-4169a86015fb/lib/filter/antibanner.js, line 1158: unreachable code after return statement
+JavaScript error: moz-extension://64062179-7c1b-4fac-8c10-4169a86015fb/lib/ui-service.js, line 231: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://64062179-7c1b-4fac-8c10-4169a86015fb/lib/ui-service.js, line 231: Error: Could not establish connection. Receiving end does not exist.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xBA000F,name=PWindowGlobal::Msg_RawMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xBA000F,name=PWindowGlobal::Msg_RawMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xBA000F,name=PWindowGlobal::Msg_RawMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xBA000F,name=PWindowGlobal::Msg_RawMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0149,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230001,name=PBrowser::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230001,name=PBrowser::Msg_AsyncMessage) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 486: TypeError: window is null
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1618985431360	Marionette	INFO	Stopped listening on port 38653
+1618985509045	geckodriver	INFO	Listening on 127.0.0.1:56589
+1618985510046	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiler7AEFl"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618985525018	Marionette	INFO	Listening on port 44413
+1618985525340	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://8012be09-b4a8-4543-9f99-b45e3febaca8/lib/filter/antibanner.js, line 1158: unreachable code after return statement
+JavaScript error: moz-extension://8012be09-b4a8-4543-9f99-b45e3febaca8/lib/ui-service.js, line 231: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://8012be09-b4a8-4543-9f99-b45e3febaca8/lib/ui-service.js, line 231: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://8012be09-b4a8-4543-9f99-b45e3febaca8/lib/ui-service.js, line 231: Error: Could not establish connection. Receiving end does not exist.
+1618985709015	geckodriver	INFO	Listening on 127.0.0.1:55095
+1618985710012	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRCF1FK"
+[GFX1-]: glxtest: libpci missing
+1618985720338	geckodriver	INFO	Listening on 127.0.0.1:36221
+1618985721348	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezHv6nr"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618985734128	Marionette	INFO	Listening on port 43173
+1618985734332	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://21f5c8ac-16ff-4450-8adc-1ccfd98e5ebf/lib/filter/antibanner.js, line 1158: unreachable code after return statement
+JavaScript error: moz-extension://21f5c8ac-16ff-4450-8adc-1ccfd98e5ebf/lib/ui-service.js, line 231: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://21f5c8ac-16ff-4450-8adc-1ccfd98e5ebf/lib/ui-service.js, line 231: Error: Could not establish connection. Receiving end does not exist.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xBA000F,name=PWindowGlobal::Msg_RawMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230001,name=PBrowser::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230001,name=PBrowser::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0149,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 486: TypeError: window is null
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 53: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+1618985768574	Marionette	INFO	Stopped listening on port 43173
+1618985892044	geckodriver	INFO	Listening on 127.0.0.1:45827
+1618985893049	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBCjNey"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618985905821	Marionette	INFO	Listening on port 39767
+1618985906227	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://91d7102f-1148-47a6-b23b-198f5065e696/lib/filter/antibanner.js, line 1158: unreachable code after return statement
+JavaScript error: moz-extension://91d7102f-1148-47a6-b23b-198f5065e696/lib/ui-service.js, line 231: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://91d7102f-1148-47a6-b23b-198f5065e696/lib/ui-service.js, line 231: Error: Could not establish connection. Receiving end does not exist.
+1618986252497	geckodriver	INFO	Listening on 127.0.0.1:48153
+1618986253486	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledvkyRe"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618986266316	Marionette	INFO	Listening on port 39125
+1618986266717	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://db00b9b1-7fe3-4950-9a2a-65d649ccbed4/lib/filter/antibanner.js, line 1158: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1618986500863	geckodriver	INFO	Listening on 127.0.0.1:60111
+1618986501873	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenLnUWl"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618986515966	Marionette	INFO	Listening on port 39613
+1618986516216	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://3662a7dd-4a2f-4e45-a2f7-d82eea9b6668/lib/filter/antibanner.js, line 1158: unreachable code after return statement
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xBA000F,name=PWindowGlobal::Msg_RawMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xBA000F,name=PWindowGlobal::Msg_RawMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xBA000F,name=PWindowGlobal::Msg_RawMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xBA000F,name=PWindowGlobal::Msg_RawMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xBA000F,name=PWindowGlobal::Msg_RawMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xBA000F,name=PWindowGlobal::Msg_RawMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xBA000F,name=PWindowGlobal::Msg_RawMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0067,name=PContent::Msg_RefreshScreens) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0067,name=PContent::Msg_RefreshScreens) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xBA000F,name=PWindowGlobal::Msg_RawMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xBA000F,name=PWindowGlobal::Msg_RawMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xBA000F,name=PWindowGlobal::Msg_RawMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xBA000F,name=PWindowGlobal::Msg_RawMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xBA000F,name=PWindowGlobal::Msg_RawMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xBA000F,name=PWindowGlobal::Msg_RawMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xBA000F,name=PWindowGlobal::Msg_RawMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xBA000F,name=PWindowGlobal::Msg_RawMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xBA000F,name=PWindowGlobal::Msg_RawMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0149,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0149,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0149,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0149,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A001F,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230050,name=PBrowser::Msg_FlushTabState) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230098,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0149,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0149,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230050,name=PBrowser::Msg_FlushTabState) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230098,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0149,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0149,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230050,name=PBrowser::Msg_FlushTabState) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230098,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0149,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0149,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0149,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0149,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230050,name=PBrowser::Msg_FlushTabState) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230098,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0149,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0149,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0149,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0149,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0149,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0149,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0149,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0149,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0149,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0149,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0149,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0149,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230001,name=PBrowser::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230050,name=PBrowser::Msg_FlushTabState) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230098,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0149,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2294: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2294: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2294: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2294: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2294: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 9932, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-mBGiWf/firefox-86.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+[Child 9932, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-mBGiWf/firefox-86.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+[Child 9932, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-mBGiWf/firefox-86.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+[Child 9932, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-mBGiWf/firefox-86.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+[Child 9932, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-mBGiWf/firefox-86.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+[Child 9932, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-mBGiWf/firefox-86.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+[Child 9932, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-mBGiWf/firefox-86.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+[Child 9932, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-mBGiWf/firefox-86.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+[Child 9932, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-mBGiWf/firefox-86.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+[Child 9932, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-mBGiWf/firefox-86.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+[Child 9932, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-mBGiWf/firefox-86.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+[Child 9932, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-mBGiWf/firefox-86.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+[Child 9932, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-mBGiWf/firefox-86.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+[Child 9932, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-mBGiWf/firefox-86.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+[Child 9932, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-mBGiWf/firefox-86.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+[Child 9932, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-mBGiWf/firefox-86.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+[Child 9932, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-mBGiWf/firefox-86.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+[Child 9932, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-mBGiWf/firefox-86.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+[Child 9932, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-mBGiWf/firefox-86.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+[Child 9932, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-mBGiWf/firefox-86.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+[Child 9932, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-mBGiWf/firefox-86.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+[Child 9932, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-mBGiWf/firefox-86.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+[Child 9932, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-mBGiWf/firefox-86.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1618986728115	geckodriver	INFO	Listening on 127.0.0.1:36099
+1618986729080	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerSPpQc"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618986741312	Marionette	INFO	Listening on port 37183
+1618986741438	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://ab93cdfe-6f82-44d8-b44d-20c1efa750cc/lib/filter/antibanner.js, line 1158: unreachable code after return statement
+JavaScript error: moz-extension://ab93cdfe-6f82-44d8-b44d-20c1efa750cc/lib/ui-service.js, line 231: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://ab93cdfe-6f82-44d8-b44d-20c1efa750cc/lib/ui-service.js, line 231: Error: Could not establish connection. Receiving end does not exist.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230001,name=PBrowser::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230001,name=PBrowser::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230001,name=PBrowser::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0149,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 486: TypeError: window is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618986769294	Marionette	INFO	Stopped listening on port 37183
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618986888971	geckodriver	INFO	Listening on 127.0.0.1:59743
+1618986889975	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXfyTyN"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618986901732	Marionette	INFO	Listening on port 38961
+1618986901915	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://eed4c6e2-8c1b-461d-acd6-4892b22fcd29/lib/filter/antibanner.js, line 1158: unreachable code after return statement
+JavaScript error: moz-extension://eed4c6e2-8c1b-461d-acd6-4892b22fcd29/lib/ui-service.js, line 231: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://eed4c6e2-8c1b-461d-acd6-4892b22fcd29/lib/ui-service.js, line 231: Error: Could not establish connection. Receiving end does not exist.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0067,name=PContent::Msg_RefreshScreens) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0067,name=PContent::Msg_RefreshScreens) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0067,name=PContent::Msg_RefreshScreens) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230001,name=PBrowser::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230001,name=PBrowser::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0149,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1618987035172	Marionette	INFO	Stopped listening on port 38961
+1618987203747	geckodriver	INFO	Listening on 127.0.0.1:45269
+1618987204755	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiTCOcx"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618987216221	Marionette	INFO	Listening on port 38553
+1618987216339	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://a58a6a01-f7d9-4228-a324-e8f64fb8b5f1/lib/filter/antibanner.js, line 1158: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0149,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230001,name=PBrowser::Msg_AsyncMessage) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+1618987259361	Marionette	INFO	Stopped listening on port 38553
+1619022444319	geckodriver	INFO	Listening on 127.0.0.1:45583
+1619022445312	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGZjnup"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619022462687	Marionette	INFO	Listening on port 40257
+1619022462976	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://2b12e7ac-4bfc-4c02-84b3-57ab7eb4b8b7/lib/filter/antibanner.js, line 1158: unreachable code after return statement
+JavaScript error: moz-extension://2b12e7ac-4bfc-4c02-84b3-57ab7eb4b8b7/lib/ui-service.js, line 231: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://2b12e7ac-4bfc-4c02-84b3-57ab7eb4b8b7/lib/ui-service.js, line 231: Error: Could not establish connection. Receiving end does not exist.
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xBA000F,name=PWindowGlobal::Msg_RawMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xBA000F,name=PWindowGlobal::Msg_RawMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0149,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230001,name=PBrowser::Msg_AsyncMessage) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 486: TypeError: window is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619022495010	Marionette	INFO	Stopped listening on port 40257
+1619022786006	geckodriver	INFO	Listening on 127.0.0.1:60853
+1619022786996	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevdGDKa"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619022800382	Marionette	INFO	Listening on port 37187
+1619022800575	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://28dad21a-64d5-4b19-bd26-c867af1d5add/lib/filter/antibanner.js, line 1158: unreachable code after return statement
+JavaScript error: moz-extension://28dad21a-64d5-4b19-bd26-c867af1d5add/lib/ui-service.js, line 231: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://28dad21a-64d5-4b19-bd26-c867af1d5add/lib/ui-service.js, line 231: Error: Could not establish connection. Receiving end does not exist.
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xBA000F,name=PWindowGlobal::Msg_RawMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xBA000F,name=PWindowGlobal::Msg_RawMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xBA000F,name=PWindowGlobal::Msg_RawMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xBA000F,name=PWindowGlobal::Msg_RawMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230001,name=PBrowser::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230001,name=PBrowser::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230001,name=PBrowser::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230001,name=PBrowser::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0149,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 486: TypeError: window is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1619023294353	Marionette	INFO	Stopped listening on port 37187
+1619023913616	geckodriver	INFO	Listening on 127.0.0.1:57709
+1619023916005	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHiXQWh"
+[GFX1-]: glxtest: libpci missing
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GFX1-]: glxtest: libpci missing
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1619023989482	geckodriver	INFO	Listening on 127.0.0.1:40245
+1619023992479	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenKevdf"
+[GFX1-]: glxtest: libpci missing
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GFX1-]: glxtest: libpci missing
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1619024111423	geckodriver	INFO	Listening on 127.0.0.1:48833
+1619024112423	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4Rm15C"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619024130268	Marionette	INFO	Listening on port 45603
+1619024130471	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://62ebc2c7-721a-4b04-b4af-7763be566ce3/lib/filter/antibanner.js, line 1158: unreachable code after return statement
+1619024625073	geckodriver	INFO	Listening on 127.0.0.1:47507
+1619024625832	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevonThN"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619024657177	Marionette	INFO	Listening on port 39257
+1619024657421	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://00c48616-0d29-4f41-8fcc-9341c34d59eb/lib/filter/antibanner.js, line 1158: unreachable code after return statement
+JavaScript error: moz-extension://00c48616-0d29-4f41-8fcc-9341c34d59eb/lib/ui-service.js, line 231: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: resource://gre/modules/addonManager.js, line 256: NS_ERROR_NOT_INITIALIZED
+JavaScript error: moz-extension://00c48616-0d29-4f41-8fcc-9341c34d59eb/lib/ui-service.js, line 231: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: undefined, line 0: Error: Invalid tab ID: 4
+JavaScript error: undefined, line 0: Error: Invalid tab ID: 4
+JavaScript error: moz-extension://00c48616-0d29-4f41-8fcc-9341c34d59eb/lib/ui-service.js, line 231: Error: Could not establish connection. Receiving end does not exist.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230001,name=PBrowser::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230001,name=PBrowser::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230001,name=PBrowser::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230001,name=PBrowser::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0149,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1619024867991	Marionette	INFO	Stopped listening on port 39257
